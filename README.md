@@ -1,1 +1,1 @@
-# -Markdown-Creative-Commons
+# Markdown-Creative-Commons
