@@ -44,9 +44,9 @@ a. **License grant.**
 
    1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
 
-      a. reproduce and Share the Licensed Material, in whole or in part; and
+      A. reproduce and Share the Licensed Material, in whole or in part; and
 
-      b. produce, reproduce, and Share Adapted Material.
+      B. produce, reproduce, and Share Adapted Material.
 
    2. **Exceptions and Limitations.** For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
 
@@ -56,9 +56,9 @@ a. **License grant.**
 
    5. **Downstream recipients.**
 
-      a. **Offer from the Licensor — Licensed Material.** Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
+      A. **Offer from the Licensor — Licensed Material.** Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
 
-      b. **No downstream restrictions.** You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
+      B. **No downstream restrictions.** You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
 
    6. **No endorsement.** Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
 
@@ -78,7 +78,7 @@ a. **Attribution.**
 
    1. If You Share the Licensed Material (including in modified form), You must:
 
-      a. retain the following if it is supplied by the Licensor with the Licensed Material:
+      A. retain the following if it is supplied by the Licensor with the Licensed Material:
 
          i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
 
@@ -90,9 +90,9 @@ a. **Attribution.**
 
          v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
 
-      b. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
+      B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
 
-      c. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
+      C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
 
    2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
 
