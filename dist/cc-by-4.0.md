@@ -74,7 +74,7 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
 
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 
-- a. **Attribution.**
+- (a) **Attribution.**
 
   - (1) If You Share the Licensed Material (including in modified form), You must:
 
