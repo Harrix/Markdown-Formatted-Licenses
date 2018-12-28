@@ -9,6 +9,7 @@
 - [CC BY-NC-SA 4.0](https://github.com/Harrix/Markdown-Formatted-Licenses/blob/master/dist/cc-by-nc-sa-4.0.md) (Attribution + Noncommercial + ShareAlike).
 - [CC BY-ND 4.0](https://github.com/Harrix/Markdown-Formatted-Licenses/blob/master/dist/cc-by-nd-4.0.md) (Attribution + NoDerivatives).
 - [CC BY-SA 4.0](https://github.com/Harrix/Markdown-Formatted-Licenses/blob/master/dist/cc-by-sa-4.0.md) (Attribution + ShareAlike).
+- [MIT](https://github.com/Harrix/Markdown-Formatted-Licenses/blob/master/dist/mit.md) (Attribution alone).
 
 ## Attribution
 
@@ -21,6 +22,7 @@ Sources of licenses, on the basis of which markdown versions were created:
 - [Source](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt) of CC BY-NC-SA 4.0.
 - [Source](https://creativecommons.org/licenses/by-nd/4.0/legalcode.txt) of CC BY-ND 4.0.
 - [Source](https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt) of CC BY-SA 4.0.
+- [Source](https://en.wikipedia.org/wiki/MIT_License) of MIT.
 
 ## Code style
 
