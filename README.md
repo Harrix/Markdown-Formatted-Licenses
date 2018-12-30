@@ -1,4 +1,4 @@
-# Markdown-Formatted-Licenses
+# Markdown Formatted Licenses
 
 ## List of licenses
 
