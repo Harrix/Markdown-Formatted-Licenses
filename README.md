@@ -13,7 +13,7 @@
 
 ## Code style
 
-All markdown files are checked with [markdownlint](https://github.com/DavidAnson/markdownlint) and formatted with [Prettier](https://prettier.io/) in [VS Code](https://code.visualstudio.com/).
+All markdown files are checked with [markdownlint](https://github.com/DavidAnson/markdownlint) and formatted with [Prettier](https://prettier.io/) in [VSCode](https://code.visualstudio.com/).
 
 ## License
 
